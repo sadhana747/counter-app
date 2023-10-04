@@ -10,3 +10,6 @@ Currently, two official plugins are available:
 # Counter App
 
 Simple deployment on github + understanding basics of hooks
+
+visit the page here
+https://sadhana747.github.io/counter-app/
